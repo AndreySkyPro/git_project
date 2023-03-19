@@ -1,3 +1,2 @@
-#rint('Hello Wordi)
-print('Hello Linux')
+print('Hello Word')
 
